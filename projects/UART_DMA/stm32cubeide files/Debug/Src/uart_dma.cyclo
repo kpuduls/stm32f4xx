@@ -1,0 +1,13 @@
+C:/Users/pudul/OneDrive/Documents/STM32F4 - bare metal docs/STM32F4-BareMetal_Workspace/F4_chip_headers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	2
+../Src/uart_dma.c:18:13:uart_set_baudrate	1
+../Src/uart_dma.c:22:17:compute_uart_bd	1
+../Src/uart_dma.c:26:6:uart2_tx_init	1
+../Src/uart_dma.c:51:6:uart2_txrx_init	1
+../Src/uart_dma.c:76:6:dma1_stream5_init	2
+../Src/uart_dma.c:112:7:dma1_stream6_init	2
+../Src/uart_dma.c:148:7:dma1_start_stream5	1
+../Src/uart_dma.c:168:6:dma1_start_stream6	1
+../Src/uart_dma.c:187:6:DMA1_Stream5_IRQHandler	4
+../Src/uart_dma.c:247:6:DMA1_Stream6_IRQHandler	5
+../Src/uart_dma.c:277:6:copyBuffer	4
+../Src/uart_dma.c:295:6:update_crc_buffer_pointer	1
